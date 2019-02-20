@@ -1,19 +1,19 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "B&B Isole di Pietra", // <title>
+  shortSiteTitle: "B&B Isole di Pietra", // <title> ending for posts and pages
+  siteDescription: "B&B Isole di Pietra",
+  siteUrl: "https://www.isoledipietra.it",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "rimysoft",
+  authorTwitterAccount: "rimysoft",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "B&B Isole di Pietra",
+  headerSubTitle: "",
 
   /* manifest.json */
   manifestName: "HeroBlog - a GatsbyJS starter",
