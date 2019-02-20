@@ -2,7 +2,7 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+welcome to b&b Isole di Pietra
 
 ### Features:
 

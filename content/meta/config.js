@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: "B&B Isole di Pietra", // <title>
-  shortSiteTitle: "B&B Isole di Pietra", // <title> ending for posts and pages
-  siteDescription: "B&B Isole di Pietra",
+  siteTitle: "b&b Isole di Pietra", // <title>
+  shortSiteTitle: "b&b Isole di Pietra", // <title> ending for posts and pages
+  siteDescription: "b&b Isole di Pietra",
   siteUrl: "https://www.isoledipietra.it",
   // pathPrefix: "",
   siteImage: "preview.jpg",
@@ -12,12 +12,12 @@ module.exports = {
   authorTwitterAccount: "rimysoft",
 
   /* info */
-  headerTitle: "B&B Isole di Pietra",
+  headerTitle: "b&b Isole di Pietra",
   headerSubTitle: "",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "b&b Isole di Pietra",
+  manifestShortName: "IsolePietra", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
