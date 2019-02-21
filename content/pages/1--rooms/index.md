@@ -1,5 +1,5 @@
 ---
-title: About
+title: Rooms
 ---
 
 welcome to b&b Isole di Pietra
