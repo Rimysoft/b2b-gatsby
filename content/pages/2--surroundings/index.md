@@ -1,6 +1,6 @@
 ---
 title: Discover surroundings
-menuTitle: surroundings
+menuTitle: Surroundings
 ---
 
 [Front-end web development with Greg](https://dev.greglobinski.com) is a blog I have just launched.
